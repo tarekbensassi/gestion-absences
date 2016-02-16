@@ -1,0 +1,1 @@
+Projet de gestion d'absence pris en charge par 3 étudiants et encadré par un professeur de l'Ecole Nationale des Sciences Appliquées Al-Hoceima
